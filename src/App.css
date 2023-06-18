@@ -1,0 +1,8 @@
+body{
+    background-color: #fff !important;
+    color: black !important;
+}
+.mantine-Carousel-controls{
+    top: -20px !important;
+    left: 91% !important;
+}
